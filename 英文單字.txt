@@ -7,3 +7,7 @@ mileage 里程
 fuzzy search 模糊搜尋
 Penetration 滲透
 Cache Penetration 緩存擊穿
+accommodate 容納
+underlying 潛在的
+sufficient 充足的
+anonymous 匿名
