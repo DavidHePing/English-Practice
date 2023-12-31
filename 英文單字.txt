@@ -14,3 +14,4 @@ anonymous 匿名
 embrace 擁抱
 contender 競爭者
 pretender 假裝者
+concat 連接
