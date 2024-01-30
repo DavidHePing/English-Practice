@@ -15,3 +15,5 @@ embrace 擁抱
 contender 競爭者
 pretender 假裝者
 concat 連接
+regardless 不管
+underlying 潛在的
