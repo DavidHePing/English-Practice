@@ -20,3 +20,4 @@ underlying 潛在的
 eschewing 迴避
 Conventions 慣例
 associations 合夥
+indicate 表明
